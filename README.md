@@ -1,19 +1,19 @@
 # webgis
-WebGIS课程代码
+WebGIS课程资源文件
 
-#doc
+## doc
 课程PPT\相关文档
 
-#resource
+## resource
 常用软件、工具、网站等资源
 
-#html
+## html
 示例代码
 
-#javascript
+## javascript
 webGIS库文件及JS代码文件
 
-#css
+## css
 样式文件
 
 
